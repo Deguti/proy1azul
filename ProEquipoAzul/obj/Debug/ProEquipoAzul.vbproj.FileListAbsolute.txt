@@ -10,3 +10,16 @@ C:\Users\Usuario\source\repos\ProEquipoAzul\ProEquipoAzul\obj\Debug\ProEquipoAzu
 C:\Users\Usuario\source\repos\ProEquipoAzul\ProEquipoAzul\obj\Debug\ProEquipoAzul.exe
 C:\Users\Usuario\source\repos\ProEquipoAzul\ProEquipoAzul\obj\Debug\ProEquipoAzul.xml
 C:\Users\Usuario\source\repos\ProEquipoAzul\ProEquipoAzul\obj\Debug\ProEquipoAzul.pdb
+C:\Users\Usuario\source\repos\Github\proy1azul\ProEquipoAzul\bin\Debug\ProEquipoAzul.exe.config
+C:\Users\Usuario\source\repos\Github\proy1azul\ProEquipoAzul\bin\Debug\ProEquipoAzul.exe
+C:\Users\Usuario\source\repos\Github\proy1azul\ProEquipoAzul\bin\Debug\ProEquipoAzul.pdb
+C:\Users\Usuario\source\repos\Github\proy1azul\ProEquipoAzul\bin\Debug\ProEquipoAzul.xml
+C:\Users\Usuario\source\repos\Github\proy1azul\ProEquipoAzul\obj\Debug\ProEquipoAzul.vbproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Github\proy1azul\ProEquipoAzul\obj\Debug\ProEquipoAzul.Form1.resources
+C:\Users\Usuario\source\repos\Github\proy1azul\ProEquipoAzul\obj\Debug\ProEquipoAzul.Form2.resources
+C:\Users\Usuario\source\repos\Github\proy1azul\ProEquipoAzul\obj\Debug\ProEquipoAzul.Resources.resources
+C:\Users\Usuario\source\repos\Github\proy1azul\ProEquipoAzul\obj\Debug\ProEquipoAzul.vbproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Github\proy1azul\ProEquipoAzul\obj\Debug\ProEquipoAzul.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Github\proy1azul\ProEquipoAzul\obj\Debug\ProEquipoAzul.exe
+C:\Users\Usuario\source\repos\Github\proy1azul\ProEquipoAzul\obj\Debug\ProEquipoAzul.xml
+C:\Users\Usuario\source\repos\Github\proy1azul\ProEquipoAzul\obj\Debug\ProEquipoAzul.pdb
